@@ -618,7 +618,7 @@ CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8$LR•IPV4•15�
 CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$LR•IPV4•5『线路1』
 CCTV-4 中文国际,http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•5『线路2』
 CCTV-4 中文国际,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8$LR•IPV6•5『线路3』
-CCTV-4 中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765058400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-a4402d51978117ba36c10737835d5c43&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•5『线路4』
+CCTV-4 中文国际,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1765062000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0c750819bf7daea688ef624c09efa251&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4•5『线路4』
 CCTV-4 中文国际,http://148.135.93.213:81/live.php?id=CCTV4$LR•IPV4•5『线路5』
 CCTV4中文国际,http://125.42.151.128:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•21『线路1』
 CCTV4中文国际,http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•21『线路2』
@@ -682,7 +682,7 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$LR•IPV4•2『线路1』
 CCTV4美洲,https://live.chinacert.cftest5.cn/mg/?id=608807416$LR•IPV4•2『线路2』
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o$LR•IPV4•2『线路1』
 CCTV4欧洲,https://live.chinacert.cftest5.cn/mg/?id=608807419$LR•IPV4•2『线路2』
-CCTV-4K 高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1765058400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-c69179e0f7942c39fd1aceabd2691888&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4
+CCTV-4K 高清,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1765062000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ab6e04d09e27db13ff671b3ef038877e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$LR•IPV4
 CCTV4K蓝光,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg$LR•IPV4
 CCTV4K真4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8$LR•IPV4
 CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k$LR•IPV4
@@ -915,13 +915,13 @@ CCTV-7国防军事,http://112.6.239.227:8207/hls/8/index.m3u8$LR•IPV4•3『�
 CCTV7高清,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=gq$LR•IPV4
 CCTV7超清,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq$LR•IPV4
 CCTV7蓝光,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=lg$LR•IPV4
+CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k$LR•IPV4•2『线路1』
+CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3$LR•IPV6•2『线路2』
 CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$LR•IPV4•5『线路1』
 CCTV-8 电视剧,http://218.13.14.6:60050/tsfile/live/1008_1.m3u8$LR•IPV4•5『线路2』
 CCTV-8 电视剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8$LR•IPV6•5『线路3』
 CCTV-8 电视剧,http://183.196.25.171:808/hls/77/index.m3u8$LR•IPV4•5『线路4』
 CCTV-8 电视剧,http://148.135.93.213:81/live.php?id=CCTV8$LR•IPV4•5『线路5』
-CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k$LR•IPV4•2『线路1』
-CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3$LR•IPV6•2『线路2』
 CCTV8电视剧,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•21『线路1』
 CCTV8电视剧,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•21『线路2』
 CCTV8电视剧,http://112.27.235.94:8000/hls/9/index.m3u8$LR•IPV4•21『线路3』
@@ -1468,78 +1468,79 @@ CCTV 8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8$LR•IPV4
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8$LR•IPV4•58『线路57』
 湖南卫视,http://148.135.93.213:81/live.php?id=湖南卫视$LR•IPV4•58『线路58』
 湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k$LR•IPV4
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$LR•IPV4•72『线路1』
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路2』
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路3』
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路4』
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路5』
-浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•72『线路6』
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$LR•IPV4•72『线路7』
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路8』
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路9』
-浙江卫视,http://8.138.7.223/tv/zjws.m3u8$LR•IPV4•72『线路10』
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路11』
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4•72『线路12』
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4•72『线路13』
-浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•72『线路14』
-浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8$LR•IPV4•72『线路15』
-浙江卫视,http://61.156.228.12:8154/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•72『线路16』
-浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•IPV4•72『线路17』
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$LR•IPV4•72『线路18』
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$LR•IPV4•72『线路19』
-浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$LR•IPV4•72『线路20』
-浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915$LR•IPV4•72『线路21』
-浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070$LR•IPV4•72『线路22』
-浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws$LR•IPV4•72『线路23』
-浙江卫视,http://goo.bkpcp.top/mg/zjws$LR•IPV4•72『线路24』
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8$LR•IPV4•72『线路25』
-浙江卫视,http://ikuai.zlsip.top:4022/rtp/239.3.1.137:8036$LR•IPV4•72『线路26』
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路27』
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路28』
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路29』
-浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•72『线路30』
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$LR•IPV4•72『线路31』
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路32』
-浙江卫视,http://8.138.7.223/tv/zjws.m3u8$LR•IPV4•72『线路33』
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•72『线路34』
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4•72『线路35』
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4•72『线路36』
-浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•72『线路37』
-浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8$LR•IPV4•72『线路38』
-浙江卫视,https://live.mxdyeah.top/live.php?id=zhejiangHD$LR•IPV4•72『线路39』
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$LR•IPV4•72『线路40』
-浙江卫视,http://k.061899.xyz/m.php?id=zjws$LR•IPV4•72『线路41』
-浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws$LR•IPV4•72『线路42』
-浙江卫视,http://sh.lnott.top:880/dx32.m3u8$LR•IPV4•72『线路43』
-浙江卫视,http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8$LR•IPV4•72『线路44』
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339$LR•IPV4•72『线路45』
-浙江卫视,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8$LR•IPV4•72『线路46』
-浙江卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8$LR•IPV4•72『线路47』
-浙江卫视,http://101.35.240.114:88/live.php?id=浙江卫视$LR•IPV4•72『线路48』
-浙江卫视,http://home.wwang.pw:35455/itv/1000000005000265031.m3u8?cdn=ystenlive$LR•IPV4•72『线路49』
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a$LR•IPV4•72『线路50』
-浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070$LR•IPV4•72『线路51』
-浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws$LR•IPV4•72『线路52』
-浙江卫视,http://3501776.xyz:35455/itv/1000000005000265031.m3u8?cdn=ystenlive$LR•IPV4•72『线路53』
-浙江卫视,http://goo.bkpcp.top/mg/zjws$LR•IPV4•72『线路54』
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989$LR•IPV4•72『线路55』
-浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8$LR•IPV4•72『线路56』
-浙江卫视,https://migu.188766.xyz/?migutoken=d8eb91a3b94d8f6d1e1fd8e9ee9b6152&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$LR•IPV4•72『线路57』
-浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6•72『线路58』
-浙江卫视,https://stream1.freetv.fun/2e3a01b886780ceca10b44bb6cdb57413757275a6fdcb083800db996bc2f81e3.m3u8$LR•IPV4•72『线路59』
-浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•IPV4•72『线路60』
-浙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8$LR•IPV6•72『线路61』
-浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$LR•IPV4•72『线路62』
-浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915$LR•IPV4•72『线路63』
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$LR•IPV4•72『线路64』
-浙江卫视,http://ikuai.zlsip.top:4022/rtp/239.3.1.137:8036$LR•IPV4•72『线路65』
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$LR•IPV4•72『线路66』
-浙江卫视,http://pull-skycorp.speedws.com/live/gbH4PLQ3sx9tsENsNRHYN0fXCkRq5E1sVCiXPZPoRHSwF6qIbcq.flv$LR•IPV4•72『线路67』
-浙江卫视,http://ygbh.site/php/bfgd.php?id=094$LR•IPV4•72『线路68』
-浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8$LR•IPV4•72『线路69』
-浙江卫视,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$LR•IPV4•72『线路70』
-浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8$LR•IPV4•72『线路71』
-浙江卫视,http://148.135.93.213:81/live.php?id=浙江卫视$LR•IPV4•72『线路72』
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路1』
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$LR•IPV4•73『线路2』
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路3』
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路4』
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路5』
+浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•73『线路6』
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$LR•IPV4•73『线路7』
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路8』
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路9』
+浙江卫视,http://8.138.7.223/tv/zjws.m3u8$LR•IPV4•73『线路10』
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路11』
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4•73『线路12』
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4•73『线路13』
+浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•73『线路14』
+浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8$LR•IPV4•73『线路15』
+浙江卫视,http://61.156.228.12:8154/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•73『线路16』
+浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•IPV4•73『线路17』
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$LR•IPV4•73『线路18』
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$LR•IPV4•73『线路19』
+浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$LR•IPV4•73『线路20』
+浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915$LR•IPV4•73『线路21』
+浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070$LR•IPV4•73『线路22』
+浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws$LR•IPV4•73『线路23』
+浙江卫视,http://goo.bkpcp.top/mg/zjws$LR•IPV4•73『线路24』
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8$LR•IPV4•73『线路25』
+浙江卫视,http://ikuai.zlsip.top:4022/rtp/239.3.1.137:8036$LR•IPV4•73『线路26』
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路27』
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路28』
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路29』
+浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•73『线路30』
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$LR•IPV4•73『线路31』
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路32』
+浙江卫视,http://8.138.7.223/tv/zjws.m3u8$LR•IPV4•73『线路33』
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$LR•IPV4•73『线路34』
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4•73『线路35』
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$LR•IPV4•73『线路36』
+浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•73『线路37』
+浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8$LR•IPV4•73『线路38』
+浙江卫视,https://live.mxdyeah.top/live.php?id=zhejiangHD$LR•IPV4•73『线路39』
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$LR•IPV4•73『线路40』
+浙江卫视,http://k.061899.xyz/m.php?id=zjws$LR•IPV4•73『线路41』
+浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws$LR•IPV4•73『线路42』
+浙江卫视,http://sh.lnott.top:880/dx32.m3u8$LR•IPV4•73『线路43』
+浙江卫视,http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8$LR•IPV4•73『线路44』
+浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339$LR•IPV4•73『线路45』
+浙江卫视,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8$LR•IPV4•73『线路46』
+浙江卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8$LR•IPV4•73『线路47』
+浙江卫视,http://101.35.240.114:88/live.php?id=浙江卫视$LR•IPV4•73『线路48』
+浙江卫视,http://home.wwang.pw:35455/itv/1000000005000265031.m3u8?cdn=ystenlive$LR•IPV4•73『线路49』
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a$LR•IPV4•73『线路50』
+浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070$LR•IPV4•73『线路51』
+浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws$LR•IPV4•73『线路52』
+浙江卫视,http://3501776.xyz:35455/itv/1000000005000265031.m3u8?cdn=ystenlive$LR•IPV4•73『线路53』
+浙江卫视,http://goo.bkpcp.top/mg/zjws$LR•IPV4•73『线路54』
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989$LR•IPV4•73『线路55』
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8$LR•IPV4•73『线路56』
+浙江卫视,https://migu.188766.xyz/?migutoken=d8eb91a3b94d8f6d1e1fd8e9ee9b6152&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1$LR•IPV4•73『线路57』
+浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6•73『线路58』
+浙江卫视,https://stream1.freetv.fun/2e3a01b886780ceca10b44bb6cdb57413757275a6fdcb083800db996bc2f81e3.m3u8$LR•IPV4•73『线路59』
+浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$LR•IPV4•73『线路60』
+浙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8$LR•IPV6•73『线路61』
+浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$LR•IPV4•73『线路62』
+浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915$LR•IPV4•73『线路63』
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$LR•IPV4•73『线路64』
+浙江卫视,http://ikuai.zlsip.top:4022/rtp/239.3.1.137:8036$LR•IPV4•73『线路65』
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$LR•IPV4•73『线路66』
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1765004959-5f62014fa15820f453ef1d707ab020a8-0-afd7e5c7bae569724902199ab965ced2$LR•IPV4•73『线路67』
+浙江卫视,http://pull-skycorp.speedws.com/live/gbH4PLQ3sx9tsENsNRHYN0fXCkRq5E1sVCiXPZPoRHSwF6qIbcq.flv$LR•IPV4•73『线路68』
+浙江卫视,http://ygbh.site/php/bfgd.php?id=094$LR•IPV4•73『线路69』
+浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8$LR•IPV4•73『线路70』
+浙江卫视,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$LR•IPV4•73『线路71』
+浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8$LR•IPV4•73『线路72』
+浙江卫视,http://148.135.93.213:81/live.php?id=浙江卫视$LR•IPV4•73『线路73』
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$LR•IPV4•54『线路1』
 东方卫视,http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•54『线路2』
 东方卫视,http://125.42.151.128:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•54『线路3』
@@ -2250,55 +2251,56 @@ CCTV 8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8$LR•IPV4
 河北卫视,http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$LR•IPV4•50『线路48』
 河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8$LR•IPV4•50『线路49』
 河北卫视,http://148.135.93.213:81/live.php?id=河北卫视$LR•IPV4•50『线路50』
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV4•49『线路1』
-河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8$LR•IPV4•49『线路2』
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$LR•IPV4•49『线路3』
-河南卫视,http://125.42.151.128:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•49『线路4』
-河南卫视,http://61.156.228.12:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•49『线路5』
-河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8$LR•IPV4•49『线路6』
-河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8$LR•IPV4•49『线路7』
-河南卫视,http://120.238.94.10:9901/tsfile/live/1068_1.m3u8$LR•IPV4•49『线路8』
-河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8$LR•IPV4•49『线路9』
-河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$LR•IPV4•49『线路10』
-河南卫视,http://z.b.bkpcp.top/m.php?id=hnws$LR•IPV4•49『线路11』
-河南卫视,http://j.x.bkpcp.top/jx/HENHD$LR•IPV4•49『线路12』
-河南卫视,http://goo.bkpcp.top/mg/hnws$LR•IPV4•49『线路13』
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7f59b59573ebfe76d91b35446bb207ad&wsTime=1746680128$LR•IPV4•49『线路14』
-河南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887270.m3u8$LR•IPV4•49『线路15』
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6f3c30aef2893c05d80306781c41bb94&wsTime=1746615649$LR•IPV4•49『线路16』
-河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8$LR•IPV6•49『线路17』
-河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8$LR•IPV4•49『线路18』
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$LR•IPV4•49『线路19』
-河南卫视,https://live.mxdyeah.top/live.php?id=henanHD$LR•IPV4•49『线路20』
-河南卫视,http://k.061899.xyz/m.php?id=hnws$LR•IPV4•49『线路21』
-河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws$LR•IPV4•49『线路22』
-河南卫视,http://39.134.67.108/PLTV/88888888/224/3221226023/1.m3u8$LR•IPV4•49『线路23』
-河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$LR•IPV4•49『线路24』
-河南卫视,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8$LR•IPV4•49『线路25』
-河南卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8$LR•IPV4•49『线路26』
-河南卫视,http://148.135.93.213/live.php?id=河南卫视$LR•IPV4•49『线路27』
-河南卫视,http://home.wwang.pw:35455/itv/1000000002000027731.m3u8?cdn=ystenlive$LR•IPV4•49『线路28』
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$LR•IPV4•49『线路29』
-河南卫视,http://z.b.bkpcp.top/m.php?id=hnws$LR•IPV4•49『线路30』
-河南卫视,http://j.x.bkpcp.top/jx/HENHD$LR•IPV4•49『线路31』
-河南卫视,http://3501776.xyz:35455/itv/1000000002000027731.m3u8?cdn=ystenlive$LR•IPV4•49『线路32』
-河南卫视,http://goo.bkpcp.top/mg/hnws$LR•IPV4•49『线路33』
-河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202510070801048ad22b24adec494cb4fc2e143581da89&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251007080104&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.90&SecurityKey=20251007080104&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c09552a18da3681b45983d634a2d5299&ddCalcu=9c90e290550d5022aa41386dda338698514b$LR•IPV4•49『线路34』
-河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8$LR•IPV4•49『线路35』
-河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8$LR•IPV4•49『线路36』
-河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8$LR•IPV6•49『线路37』
-河南卫视,http://219.157.60.114:7001/rtp/225.1.4.98:1127$LR•IPV4•49『线路38』
-河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8$LR•IPV6•49『线路39』
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7f59b59573ebfe76d91b35446bb207ad&wsTime=1746680128$LR•IPV4•49『线路40』
-河南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887270.m3u8$LR•IPV4•49『线路41』
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6f3c30aef2893c05d80306781c41bb94&wsTime=1746615649$LR•IPV4•49『线路42』
-河南卫视,http://ygbh.site/php/bfgd.php?id=104$LR•IPV4•49『线路43』
-河南卫视,http://112.6.239.227:8207/hls/31/index.m3u8$LR•IPV4•49『线路44』
-河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8$LR•IPV4•49『线路45』
-河南卫视,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV4•49『线路46』
-河南卫视,https://live.chinacert.cftest5.cn/mg/?id=790187291$LR•IPV4•49『线路47』
-河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8$LR•IPV4•49『线路48』
-河南卫视,http://148.135.93.213:81/live.php?id=河南卫视$LR•IPV4•49『线路49』
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV4•50『线路1』
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8$LR•IPV4•50『线路2』
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$LR•IPV4•50『线路3』
+河南卫视,http://125.42.151.128:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•50『线路4』
+河南卫视,http://61.156.228.12:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•50『线路5』
+河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8$LR•IPV4•50『线路6』
+河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8$LR•IPV4•50『线路7』
+河南卫视,http://120.238.94.10:9901/tsfile/live/1068_1.m3u8$LR•IPV4•50『线路8』
+河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8$LR•IPV4•50『线路9』
+河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$LR•IPV4•50『线路10』
+河南卫视,http://z.b.bkpcp.top/m.php?id=hnws$LR•IPV4•50『线路11』
+河南卫视,http://j.x.bkpcp.top/jx/HENHD$LR•IPV4•50『线路12』
+河南卫视,http://goo.bkpcp.top/mg/hnws$LR•IPV4•50『线路13』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7f59b59573ebfe76d91b35446bb207ad&wsTime=1746680128$LR•IPV4•50『线路14』
+河南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887270.m3u8$LR•IPV4•50『线路15』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6f3c30aef2893c05d80306781c41bb94&wsTime=1746615649$LR•IPV4•50『线路16』
+河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8$LR•IPV6•50『线路17』
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8$LR•IPV4•50『线路18』
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws$LR•IPV4•50『线路19』
+河南卫视,https://live.mxdyeah.top/live.php?id=henanHD$LR•IPV4•50『线路20』
+河南卫视,http://k.061899.xyz/m.php?id=hnws$LR•IPV4•50『线路21』
+河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws$LR•IPV4•50『线路22』
+河南卫视,http://39.134.67.108/PLTV/88888888/224/3221226023/1.m3u8$LR•IPV4•50『线路23』
+河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$LR•IPV4•50『线路24』
+河南卫视,http://43.152.25.114:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8$LR•IPV4•50『线路25』
+河南卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8$LR•IPV4•50『线路26』
+河南卫视,http://148.135.93.213/live.php?id=河南卫视$LR•IPV4•50『线路27』
+河南卫视,http://home.wwang.pw:35455/itv/1000000002000027731.m3u8?cdn=ystenlive$LR•IPV4•50『线路28』
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8$LR•IPV4•50『线路29』
+河南卫视,http://z.b.bkpcp.top/m.php?id=hnws$LR•IPV4•50『线路30』
+河南卫视,http://j.x.bkpcp.top/jx/HENHD$LR•IPV4•50『线路31』
+河南卫视,http://3501776.xyz:35455/itv/1000000002000027731.m3u8?cdn=ystenlive$LR•IPV4•50『线路32』
+河南卫视,http://goo.bkpcp.top/mg/hnws$LR•IPV4•50『线路33』
+河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202510070801048ad22b24adec494cb4fc2e143581da89&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251007080104&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.90&SecurityKey=20251007080104&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c09552a18da3681b45983d634a2d5299&ddCalcu=9c90e290550d5022aa41386dda338698514b$LR•IPV4•50『线路34』
+河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8$LR•IPV4•50『线路35』
+河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8$LR•IPV4•50『线路36』
+河南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8$LR•IPV6•50『线路37』
+河南卫视,http://219.157.60.114:7001/rtp/225.1.4.98:1127$LR•IPV4•50『线路38』
+河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8$LR•IPV6•50『线路39』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7f59b59573ebfe76d91b35446bb207ad&wsTime=1746680128$LR•IPV4•50『线路40』
+河南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887270.m3u8$LR•IPV4•50『线路41』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6f3c30aef2893c05d80306781c41bb94&wsTime=1746615649$LR•IPV4•50『线路42』
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f8badecbaea8ad6dc2eae9f2eac5f397&wsTime=1765019496$LR•IPV4•50『线路43』
+河南卫视,http://ygbh.site/php/bfgd.php?id=104$LR•IPV4•50『线路44』
+河南卫视,http://112.6.239.227:8207/hls/31/index.m3u8$LR•IPV4•50『线路45』
+河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8$LR•IPV4•50『线路46』
+河南卫视,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$LR•IPV4•50『线路47』
+河南卫视,https://live.chinacert.cftest5.cn/mg/?id=790187291$LR•IPV4•50『线路48』
+河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8$LR•IPV4•50『线路49』
+河南卫视,http://148.135.93.213:81/live.php?id=河南卫视$LR•IPV4•50『线路50』
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$LR•IPV4•55『线路1』
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8$LR•IPV4•55『线路2』
 黑龙江卫视,http://39.164.160.249:9901/tsfile/live/0143_1.m3u8$LR•IPV4•55『线路3』
@@ -3827,7 +3829,7 @@ BRTV卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8$LR�
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•IPV4•36『线路26』
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8$LR•IPV4•36『线路27』
 金鹰卡通,https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv$LR•IPV4•36『线路28』
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz1lZjE0ZGY3OWM3ODAxNWI2Y2FlY2VlYWJjMGE1MzIzNSZ1aWQ9JnV1aWQ9NjFlOWVmZWY2NTk2ZDU4YjU3ZDY4ZTI3YzM1NTg0YWYtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2NTAwNDQyNQ,,/JYKTMPP360.m3u8$LR•IPV4•36『线路29』
+金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJmNocz0mZGVmPTEmcz0wZjY3ZDcwMzZiYzBkMWM1MzZiNGM4NzFkZjEwMjc0MSZ1aWQ9JnV1aWQ9NzZmMGQ4OTYzYTQwMGJhYWQ1MzE4N2Q0ZTA3MmNlYTktNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2NTAzMzI0Nw,,/JYKTMPP360.m3u8$LR•IPV4•36『线路29』
 金鹰卡通,http://ygbh.site/php/bfgd.php?id=105$LR•IPV4•36『线路30』
 金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•IPV4•36『线路31』
 金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通$LR•IPV4•36『线路32』
@@ -4922,7 +4924,7 @@ BRTV国际频道,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-12.ctv$LR•IPV4•13『线路9』
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-1.m3u8$LR•IPV4•13『线路10』
 湖南都市,http://tvbox6.icu/tv/mgtv.php?id=346$LR•IPV4•13『线路11』
-湖南都市,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz05NDA2YzcyZmQ5YTA2YWE5OTM2YTU4ZDZiMzA0YjU5NyZ1aWQ9JnV1aWQ9M2Q3YThhMzU3OWZmMDkxMTZmYzBjZWU3YTAwNjdjY2MtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2NTAwNzcwOA,,/HNDSMPP360.m3u8$LR•IPV4•13『线路12』
+湖南都市,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9MTMyNGEzYjg0MDE4Yzk4YTEyMTQ2YTRjNzAwMDQ1NTUmdWlkPSZ1dWlkPTk0OGExNzczMGU0ZGMwM2ExNmFlM2Y5NGU0MTU5OWQ1LTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NjUwMzY4MDc,/HNDSMPP360.m3u8$LR•IPV4•13『线路12』
 湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8$LR•IPV4•13『线路13』
 湖南视剧,http://tvbox6.icu/tv/mgtv.php?id=484$LR•IPV4•2『线路1』
 湖南视剧,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz0yODUxNGViMDMzMTQxNjdjYTNiMzYxNjlmNTRmOGYzMSZ1aWQ9JnV1aWQ9ZTRkODgyNGE1YzQ4ZjVkOGQ4MjRmMWRjYzdlOGRlMWUtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTc0MDQwMTU5Nw,,/HNDSJMPP360.m3u8$LR•IPV4•2『线路2』
@@ -4960,7 +4962,7 @@ BRTV国际频道,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg$LR•IPV4•6『线路2』
 湖南爱晚,http://tvbox6.icu/tv/mgtv.php?id=261$LR•IPV4•6『线路3』
 湖南爱晚,http://p2.vzan.com/527645544/149039617847513156/live.m3u8$LR•IPV4•6『线路4』
-湖南爱晚,http://phonehwei.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1od19waG9uZSZjaHM9JmRlZj0xJnM9NTBmYmQzZWY2OWRlMmFjYzQ2NjU4ZWY3MzhkYzBjNjImdWlkPSZ1dWlkPTZlMzVmYzA5NDZjZDRiYTZjOWU5ODE3MGVmNjg2YjgyLTZhMGUyNjM3JnY9MiZhcz0wJmVzPTE3NjUwMDc3MDY,/HNGGMPP360.m3u8$LR•IPV4•6『线路5』
+湖南爱晚,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz00ZGE1ZDBmMzBlMzI4ZDdkMWYwMTczYmEwNDQ2YzIwYiZ1aWQ9JnV1aWQ9NmNhZmRkODFjYjhjNjFiODAyMzU4YTIwZGU4Nzg0OTctNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2NTAzNjgwMw,,/HNGGMPP360.m3u8$LR•IPV4•6『线路5』
 湖南爱晚,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9dHhfcGhvbmVfbGl2ZSZzPWIxMzI3MzlmZDZiMDEwZWZkMTQxNzE4YzI2ZTg5MDNhJnVpZD0mdXVpZD1iYjYxODBhZDMwNDljOWRiZDk4N2U4NThkODNhZmQ1ZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzQwNDA4OTMw/HNGGMPP360.m3u8$LR•IPV4•6『线路6』
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv$LR•IPV4•2『线路1』
 湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8$LR•IPV4•2『线路2』
@@ -6582,9 +6584,8 @@ CTS News (華視新聞資訊) [Geo-blocked],http://seb.sason.top/sc/hsxw_fhd.m3u
 龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8$LR•IPV4
 DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8$LR•IPV4•2『线路1』
 DW,http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8$LR•IPV4•2『线路2』
-dw151295068,https://www.goodiptv.club/douyu/12655359$LR•IPV4
 小虎牙-9zUJscDWkH,https://www.goodiptv.club/huya/30080146$LR•IPV4
-昵称违规-7kYdWFDMe2,https://www.goodiptv.club/huya/20985777$LR•IPV4
+dw151295068,https://www.goodiptv.club/douyu/12655359$LR•IPV4
 France 24,http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8$LR•IPV4
 FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8$LR•IPV4
 「KH」France 24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8$LR•IPV4
@@ -6607,13 +6608,12 @@ ZooMoo,http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8$LR•IPV4
 华视闽南,http://api.mytv666.top/api/hk.php?id=3838353863663263646330383163326466643535306539366535303963653963267469643d74762669643d313139$LR•IPV4•2『线路2』
 华视HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8$LR•IPV4
 华视-动作大片,https://www.goodiptv.club/huya/23352535$LR•IPV4
-华视-悬疑恐怖,https://www.goodiptv.club/huya/23358441$LR•IPV4
-华视-你想要的,https://www.goodiptv.club/huya/23358446$LR•IPV4
 华视-警匪大片,https://www.goodiptv.club/huya/23358421$LR•IPV4
-华视-喜剧大片,https://www.goodiptv.club/huya/23352525$LR•IPV4
+华视-你想要的,https://www.goodiptv.club/huya/23358446$LR•IPV4
+华视-悬疑恐怖,https://www.goodiptv.club/huya/23358441$LR•IPV4
 华视-高分好片,https://www.goodiptv.club/huya/23352530$LR•IPV4
-华视-爱情大片,https://www.goodiptv.club/huya/23358431$LR•IPV4
 华视-猜你喜欢,https://www.goodiptv.club/huya/23352563$LR•IPV4
+华视-爱情大片,https://www.goodiptv.club/huya/23358431$LR•IPV4
 寰宇新闻,https://live.catvod.com/catvod_com.php?id=huanyuxinwen_twn$LR•IPV4•6『线路1』
 寰宇新闻,http://api.mytv666.top/api/hk.php?id=3262353734373966643964356430363336303339363333336436636262353133267469643d74762669643d3539$LR•IPV4•6『线路2』
 寰宇新闻,http://api.mytv666.top/api/hk.php?id=6266346662396565336462643964373837326266373730326236353237383536267469643d74762669643d313132$LR•IPV4•6『线路3』
@@ -6962,8 +6962,8 @@ YY轮播,#genre#
 神探狄仁杰第三部,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8$LR•IPV4•2『线路2』
 神探狄仁杰2,https://lunbo.freetv.top/yy/1382828767$LR•IPV4•2『线路1』
 神探狄仁杰2,https://lunbo.freetv.top/yy/1382851146$LR•IPV4•2『线路2』
-神探狄仁杰1,https://lunbo.freetv.top/yy/1382851575$LR•IPV4•2『线路1』
-神探狄仁杰1,https://lunbo.freetv.top/yy/1354930934$LR•IPV4•2『线路2』
+神探狄仁杰1,https://lunbo.freetv.top/yy/1354930934$LR•IPV4•2『线路1』
+神探狄仁杰1,https://lunbo.freetv.top/yy/1382851575$LR•IPV4•2『线路2』
 神雕侠侣,http://www.douzhicloud.site:35455/huya/11352964$LR•IPV4•4『线路1』
 神雕侠侣,http://1.94.31.214:35455/huya/11352964$LR•IPV4•4『线路2』
 神雕侠侣,http://www.douzhicloud.site:35455/huya/23865171$LR•IPV4•4『线路3』
@@ -6978,6 +6978,7 @@ YY轮播,#genre#
 新白娘子传奇,http://live.iill.top/yy.php?id=1354490667$LR•IPV4•6『线路4』
 新白娘子传奇,http://www.douzhicloud.site:35455/yy/1354490667$LR•IPV4•6『线路5』
 新白娘子传奇,http://1.94.31.214:35455/yy/1354490667$LR•IPV4•6『线路6』
+新白娘子传奇-女神赵雅芝,https://lunbo.freetv.top/yy/1354930969$LR•IPV4
 狄仁杰电影,http://www.douzhicloud.site:35455/huya/30080229$LR•IPV4•2『线路1』
 狄仁杰电影,http://1.94.31.214:35455/huya/30080229$LR•IPV4•2『线路2』
 朵宝陪你看狄仁杰,https://yylunbo.ottiptv.cc/yy/1353753252$LR•IPV4•2『线路1』
@@ -6991,9 +6992,10 @@ YY轮播,#genre#
 新水浒传,http://www.douzhicloud.site:35455/huya/11342384$LR•IPV4•2『线路1』
 新水浒传,http://182.40.120.195/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8$LR•IPV4•2『线路2』
 【水浒传】24h,https://lunbo.freetv.top/yy/1382702247$LR•IPV4
-欢乐颂,http://www.douzhicloud.site:35455/yy/1382735624$LR•IPV4•3『线路1』
-欢乐颂,http://zzy789.xyz/douyu1.php?id=3756989$LR•IPV4•3『线路2』
-欢乐颂,https://lunbo.freetv.top/yy/1382735624$LR•IPV4•3『线路3』
+欢乐颂,http://www.douzhicloud.site:35455/yy/1382735624$LR•IPV4•4『线路1』
+欢乐颂,http://zzy789.xyz/douyu1.php?id=3756989$LR•IPV4•4『线路2』
+欢乐颂,https://lunbo.freetv.top/yy/1382851577$LR•IPV4•4『线路3』
+欢乐颂,https://lunbo.freetv.top/yy/1382735624$LR•IPV4•4『线路4』
 上海滩,http://luobo.bkpcp.top/yy/1382745184$LR•IPV4•2『线路1』
 上海滩,http://live.iill.top/yy.php?id=1382745184$LR•IPV4•2『线路2』
 变形金刚合集,http://1.94.31.214:35455/yy/1382736803$LR•IPV4
@@ -7014,29 +7016,29 @@ YY轮播,#genre#
 狮族迷踪2,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/b4ff6041c00246af815b679a7ee6c4a6/1200.m3u8$LR•IPV4
 狮族迷踪3,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/5e01c3ff2a5844ab80643ce67ba29026/1200.m3u8$LR•IPV4
 迷糊不迷糊 正在直播,https://lunbo.freetv.top/yy/1461931969$LR•IPV4
+小惠_郭德纲相声迷,https://lunbo.freetv.top/yy/1382851593$LR•IPV4
 迷宫终章：解药争夺与人性抉择,https://lunbo.freetv.top/yy/1382749953$LR•IPV4
-是你的迷弟吖,https://www.goodiptv.club/douyu/7039598$LR•IPV4
 电视迷痴迷港剧,https://www.goodiptv.club/huya/29465851$LR•IPV4
 电视剧痴迷者,https://www.goodiptv.club/huya/29465856$LR•IPV4
 迷失,https://www.goodiptv.club/huya/11602041$LR•IPV4
 港剧迷狂热,https://www.goodiptv.club/huya/29465847$LR•IPV4
 哀是麦子的球迷2,https://www.goodiptv.club/huya/29982673$LR•IPV4
 阿汤哥的影迷,https://www.goodiptv.club/huya/21059585$LR•IPV4
-港片迷精选剧集,https://www.goodiptv.club/huya/29465858$LR•IPV4
-教父三部曲的影迷,https://www.goodiptv.club/huya/21059589$LR•IPV4
-小军迷,https://www.goodiptv.club/huya/11352909$LR•IPV4
-鲨手不太冷的影迷,https://www.goodiptv.club/huya/21059586$LR•IPV4
-迷你鱼,https://www.goodiptv.club/huya/20985773$LR•IPV4
 我是港剧迷,https://www.goodiptv.club/huya/23903085$LR•IPV4
-电影迷小雅,https://www.goodiptv.club/douyu/9639225$LR•IPV4
-迷影至下Filmlast,https://www.goodiptv.club/douyu/9187596$LR•IPV4
-迷剧阿菁,https://www.goodiptv.club/douyu/9486024$LR•IPV4
-巅峰球迷会,https://www.goodiptv.club/douyu/10417360$LR•IPV4
-淼漫迷,https://www.goodiptv.club/douyu/9455567$LR•IPV4
+鲨手不太冷的影迷,https://www.goodiptv.club/huya/21059586$LR•IPV4
+小军迷,https://www.goodiptv.club/huya/11352909$LR•IPV4
+迷你鱼,https://www.goodiptv.club/huya/20985773$LR•IPV4
+教父三部曲的影迷,https://www.goodiptv.club/huya/21059589$LR•IPV4
+是你的迷弟吖,https://www.goodiptv.club/douyu/7039598$LR•IPV4
 小迷糊,https://www.goodiptv.club/huya/29580971$LR•IPV4
 哀是麦子的球迷,https://www.goodiptv.club/huya/16162176$LR•IPV4
-剧迷小灯泡,https://www.goodiptv.club/huya/30399965$LR•IPV4
 艾迷追剧,https://www.goodiptv.club/huya/30296786$LR•IPV4
+剧迷小灯泡,https://www.goodiptv.club/huya/30399965$LR•IPV4
+电影迷小雅,https://www.goodiptv.club/douyu/9639225$LR•IPV4
+迷影至下Filmlast,https://www.goodiptv.club/douyu/9187596$LR•IPV4
+巅峰球迷会,https://www.goodiptv.club/douyu/10417360$LR•IPV4
+迷剧阿菁,https://www.goodiptv.club/douyu/9486024$LR•IPV4
+淼漫迷,https://www.goodiptv.club/douyu/9455567$LR•IPV4
 谈判专家,http://www.douzhicloud.site:35455/yy/1382735560$LR•IPV4
 漫画解说,http://luobo.bkpcp.top/yy/1382735568$LR•IPV4•4『线路1』
 漫画解说,https://www.goodiptv.club/douyu/5907076$LR•IPV4•4『线路2』
@@ -7046,8 +7048,7 @@ YY轮播,#genre#
 寻秦记,http://www.douzhicloud.site:35455/huya/29465848$LR•IPV4•4『线路2』
 寻秦记,http://1.94.31.214:35455/huya/29465848$LR•IPV4•4『线路3』
 寻秦记,https://lunbo.freetv.top/yy/1354658048$LR•IPV4•4『线路4』
-寻秦记-穿越剧经典,https://lunbo.freetv.top/yy/1382749900$LR•IPV4•2『线路1』
-寻秦记-穿越剧经典,https://lunbo.freetv.top/yy/1382851591$LR•IPV4•2『线路2』
+寻秦记-穿越剧经典,https://lunbo.freetv.top/yy/1382749900$LR•IPV4
 峨眉电影4K,http://122.228.73.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8$LR•IPV4
 中国电影频道,https://live.tvfix.org/live/cmc/index.m3u8$LR•IPV4
 漫威电影,http://1.94.31.214:35455/douyu/6140589$LR•IPV4•2『线路1』
@@ -7127,8 +7128,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$LR•IPV4
 太空生命高分科幻电影开播,https://yylunbo.ottiptv.cc/yy/1382851586$LR•IPV4
 奇幻冒险电影凯斯宾王子的魔法征途,https://yylunbo.ottiptv.cc/yy/1354926671$LR•IPV4
 岳云鹏宋小宝也来演电影了,https://yylunbo.ottiptv.cc/yy/1354926612$LR•IPV4
-恐怖电影,https://yylunbo.ottiptv.cc/yy/24066336$LR•IPV4•2『线路1』
-恐怖电影,https://lunbo.freetv.top/yy/24066336$LR•IPV4•2『线路2』
+恐怖电影,https://yylunbo.ottiptv.cc/yy/24066336$LR•IPV4
 悬疑武侠电影九门,https://yylunbo.ottiptv.cc/yy/1382828768$LR•IPV4
 末日系列外国电影合集,https://yylunbo.ottiptv.cc/yy/1354889019$LR•IPV4
 林正英经典电影,https://yylunbo.ottiptv.cc/yy/34229877$LR•IPV4
@@ -7152,8 +7152,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$LR•IPV4
 电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn$LR•IPV4
 电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn$LR•IPV4
 电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn$LR•IPV4
-电影电影电影电影电影电影,https://yylunbo.ottiptv.cc/yy/1351496216$LR•IPV4•2『线路1』
-电影电影电影电影电影电影,https://lunbo.freetv.top/yy/1351496216$LR•IPV4•2『线路2』
+电影电影电影电影电影电影,https://yylunbo.ottiptv.cc/yy/1351496216$LR•IPV4
 电影百团大战,https://yylunbo.ottiptv.cc/yy/1382736871$LR•IPV4•2『线路1』
 电影百团大战,https://lunbo.freetv.top/yy/1382736871$LR•IPV4•2『线路2』
 电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn$LR•IPV4
@@ -7192,9 +7191,9 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$LR•IPV4
 止戈电影「解说」,https://live.iill.top/huya/19863777$LR•IPV4
 林正英-经典电影,https://lunbo.freetv.top/yy/34229877$LR•IPV4
 【周星驰】搞笑电影,https://lunbo.freetv.top/yy/38670875$LR•IPV4
-夏洛特烦恼-国内电影-喜剧,https://lunbo.freetv.top/yy/1354936201$LR•IPV4
-8090.电影一哥,https://lunbo.freetv.top/yy/29197808$LR•IPV4
 经典电影 港片枪战,https://lunbo.freetv.top/yy/1355076627$LR•IPV4
+8090.电影一哥,https://lunbo.freetv.top/yy/29197808$LR•IPV4
+夏洛特烦恼-国内电影-喜剧,https://lunbo.freetv.top/yy/1354936201$LR•IPV4
 打王者  看电影,https://lunbo.freetv.top/yy/1460889796$LR•IPV4
 大进军全集：红色系列电影,https://lunbo.freetv.top/yy/1382745083$LR•IPV4
 岳云鹏宋小宝也来演电影了？,https://lunbo.freetv.top/yy/1354926612$LR•IPV4
@@ -7211,26 +7210,62 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$LR•IPV4
 喜剧爱情电影：不期而遇,https://lunbo.freetv.top/yy/1382745181$LR•IPV4
 奇幻冒险电影：凯斯宾王子的魔法征途,https://lunbo.freetv.top/yy/1354926671$LR•IPV4
 欧美配音电影！！！,https://lunbo.freetv.top/yy/1354693629$LR•IPV4
-粤语电影丶,https://www.goodiptv.club/douyu/1226741$LR•IPV4
-逐梦电影,https://www.goodiptv.club/douyu/4058285$LR•IPV4
-浩贤说电影,https://www.goodiptv.club/douyu/10535867$LR•IPV4
 喜剧电影放映厅,https://www.goodiptv.club/huya/11602031$LR•IPV4
 武侠电影放映厅,https://www.goodiptv.club/huya/29982611$LR•IPV4
 战争电影放映厅,https://www.goodiptv.club/huya/21059618$LR•IPV4
-爱情电影放映厅,https://www.goodiptv.club/huya/29982639$LR•IPV4
 奇幻电影放映厅,https://www.goodiptv.club/huya/26355847$LR•IPV4
-电影最TOP2,https://www.goodiptv.club/huya/29982676$LR•IPV4
-越哥说电影2,https://www.goodiptv.club/huya/29982680$LR•IPV4
 粤语电影放映厅,https://www.goodiptv.club/huya/21059572$LR•IPV4
-亮哥讲电影2,https://www.goodiptv.club/huya/29982687$LR•IPV4
+爱情电影放映厅,https://www.goodiptv.club/huya/29982639$LR•IPV4
 爆裂电影2,https://www.goodiptv.club/huya/29982678$LR•IPV4
-悬疑电影放映厅,https://www.goodiptv.club/huya/29982641$LR•IPV4
-扁豆看电影2,https://www.goodiptv.club/huya/21059623$LR•IPV4
-吾聊电影2,https://www.goodiptv.club/huya/29982684$LR•IPV4
-动画电影放映厅,https://www.goodiptv.club/huya/11352878$LR•IPV4
 冒险电影放映厅,https://www.goodiptv.club/huya/21059566$LR•IPV4
+电影最TOP2,https://www.goodiptv.club/huya/29982676$LR•IPV4
+亮哥讲电影2,https://www.goodiptv.club/huya/29982687$LR•IPV4
+扁豆看电影2,https://www.goodiptv.club/huya/21059623$LR•IPV4
+悬疑电影放映厅,https://www.goodiptv.club/huya/29982641$LR•IPV4
 惊悚电影放映厅,https://www.goodiptv.club/huya/26355795$LR•IPV4
 电影旅者,https://www.goodiptv.club/huya/20969136$LR•IPV4
+吾聊电影2,https://www.goodiptv.club/huya/29982684$LR•IPV4
+动画电影放映厅,https://www.goodiptv.club/huya/11352878$LR•IPV4
+粤语电影丶,https://www.goodiptv.club/douyu/1226741$LR•IPV4
+浩贤说电影,https://www.goodiptv.club/douyu/10535867$LR•IPV4
+逐梦电影,https://www.goodiptv.club/douyu/4058285$LR•IPV4
+悠悠爱电影,https://www.goodiptv.club/huya/30611864$LR•IPV4
+古堡电影,https://www.goodiptv.club/huya/31047078$LR•IPV4
+冉冉看电影,https://www.goodiptv.club/huya/31045560$LR•IPV4
+扁豆看电影,https://www.goodiptv.club/huya/16028551$LR•IPV4
+止戈电影,https://www.goodiptv.club/huya/19863777$LR•IPV4
+电影最TOP,https://www.goodiptv.club/huya/11774959$LR•IPV4
+亮哥讲电影,https://www.goodiptv.club/huya/16144175$LR•IPV4
+越哥说电影,https://www.goodiptv.club/huya/15894162$LR•IPV4
+吾聊电影,https://www.goodiptv.club/huya/16424416$LR•IPV4
+蒲公英电影,https://www.goodiptv.club/huya/28806637$LR•IPV4
+小丑讲电影,https://www.goodiptv.club/huya/16857432$LR•IPV4
+鱼丸说电影,https://www.goodiptv.club/huya/16615910$LR•IPV4
+熊妹撩电影,https://www.goodiptv.club/huya/15966357$LR•IPV4
+大墨电影,https://www.goodiptv.club/huya/29458834$LR•IPV4
+涵哥评电影,https://www.goodiptv.club/huya/16865726$LR•IPV4
+鹏友说电影,https://www.goodiptv.club/huya/29340612$LR•IPV4•2『线路1』
+鹏友说电影,https://www.goodiptv.club/douyu/9445244$LR•IPV4•2『线路2』
+小丑电影,https://www.goodiptv.club/huya/29869799$LR•IPV4
+木子电影V,https://www.goodiptv.club/huya/27314057$LR•IPV4
+火华君说电影,https://www.goodiptv.club/huya/27312232$LR•IPV4
+张小宾电影,https://www.goodiptv.club/huya/29862176$LR•IPV4
+电影探长官方,https://www.goodiptv.club/huya/30277705$LR•IPV4
+阿柴电影,https://www.goodiptv.club/huya/29402497$LR•IPV4
+大漠讲电影,https://www.goodiptv.club/huya/30301298$LR•IPV4
+新海电影,https://www.goodiptv.club/huya/29396806$LR•IPV4
+阿神电影,https://www.goodiptv.club/huya/29396896$LR•IPV4
+救赎电影,https://www.goodiptv.club/huya/29833341$LR•IPV4
+楚门聊电影,https://www.goodiptv.club/huya/16507906$LR•IPV4
+青年电影馆,https://www.goodiptv.club/huya/21388479$LR•IPV4
+可乐电影o,https://www.goodiptv.club/huya/29598686$LR•IPV4
+光光电影,https://www.goodiptv.club/huya/29399457$LR•IPV4
+酱婶儿电影,https://www.goodiptv.club/huya/24396474$LR•IPV4
+泡菜电影,https://www.goodiptv.club/huya/29812160$LR•IPV4
+山石说电影,https://www.goodiptv.club/huya/29858128$LR•IPV4
+小川侃电影,https://www.goodiptv.club/huya/15870999$LR•IPV4
+老巴电影,https://www.goodiptv.club/huya/29340502$LR•IPV4
+电影狂人A,https://www.goodiptv.club/huya/18715610$LR•IPV4
 牛叔说电影,https://www.goodiptv.club/douyu/2758565$LR•IPV4
 火龙果说电影,https://www.goodiptv.club/douyu/9559158$LR•IPV4
 牛叔说电影二台,https://www.goodiptv.club/douyu/10010651$LR•IPV4
@@ -7243,73 +7278,72 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$LR•IPV4
 特辑电影院,https://www.goodiptv.club/douyu/3637778$LR•IPV4
 小涛讲电影V,https://www.goodiptv.club/douyu/8415464$LR•IPV4
 老邪说电影,https://www.goodiptv.club/douyu/9222870$LR•IPV4
-墨逗电影,https://www.goodiptv.club/douyu/9614847$LR•IPV4
 刘哔电影,https://www.goodiptv.club/douyu/2632223$LR•IPV4
+墨逗电影,https://www.goodiptv.club/douyu/9614847$LR•IPV4
+小马哥说电影,https://www.goodiptv.club/douyu/9396672$LR•IPV4
 俗哥看电影,https://www.goodiptv.club/douyu/2161818$LR•IPV4
 阿苏电影,https://www.goodiptv.club/douyu/9037784$LR•IPV4
 逗米说电影,https://www.goodiptv.club/douyu/421222$LR•IPV4
-小马哥说电影,https://www.goodiptv.club/douyu/9396672$LR•IPV4
-松轩说电影,https://www.goodiptv.club/douyu/1524969$LR•IPV4
 贰哥电影,https://www.goodiptv.club/douyu/9338867$LR•IPV4
-洛克电影,https://www.goodiptv.club/douyu/9414884$LR•IPV4
+松轩说电影,https://www.goodiptv.club/douyu/1524969$LR•IPV4
 我是吃泡面看电影,https://www.goodiptv.club/douyu/8851063$LR•IPV4
 有部电影儿,https://www.goodiptv.club/douyu/9736479$LR•IPV4
 谁语说电影,https://www.goodiptv.club/douyu/8705754$LR•IPV4
-博然讲电影,https://www.goodiptv.club/douyu/9561992$LR•IPV4
-大荒电影,https://www.goodiptv.club/douyu/3508538$LR•IPV4
-电影小班长,https://www.goodiptv.club/douyu/549693$LR•IPV4
-熊猫电影,https://www.goodiptv.club/douyu/3506483$LR•IPV4
 指缝里看电影,https://www.goodiptv.club/douyu/9647834$LR•IPV4
-九叔说电影v,https://www.goodiptv.club/douyu/9348282$LR•IPV4
-楚哥说电影,https://www.goodiptv.club/douyu/9375743$LR•IPV4
-鹏友说电影,https://www.goodiptv.club/douyu/9445244$LR•IPV4•2『线路1』
-鹏友说电影,https://www.goodiptv.club/huya/29340612$LR•IPV4•2『线路2』
-神羊说电影,https://www.goodiptv.club/douyu/9443552$LR•IPV4
-喵妹说电影,https://www.goodiptv.club/douyu/9312432$LR•IPV4
-看电影了没V,https://www.goodiptv.club/douyu/9562616$LR•IPV4
-伯乐说电影V,https://www.goodiptv.club/douyu/9386057$LR•IPV4
-电影黑匣子,https://www.goodiptv.club/douyu/8706652$LR•IPV4
-宇哥讲电影,https://www.goodiptv.club/douyu/2104744$LR•IPV4
-火龙果讲电影本人,https://www.goodiptv.club/douyu/2039501$LR•IPV4
+博然讲电影,https://www.goodiptv.club/douyu/9561992$LR•IPV4
 腹黑电影,https://www.goodiptv.club/douyu/8867878$LR•IPV4
-电影刘油果,https://www.goodiptv.club/douyu/3985805$LR•IPV4
+电影黑匣子,https://www.goodiptv.club/douyu/8706652$LR•IPV4
+九叔说电影v,https://www.goodiptv.club/douyu/9348282$LR•IPV4
+喵妹说电影,https://www.goodiptv.club/douyu/9312432$LR•IPV4
+楚哥说电影,https://www.goodiptv.club/douyu/9375743$LR•IPV4
+熊猫电影,https://www.goodiptv.club/douyu/3506483$LR•IPV4
+崽崽撩电影,https://www.goodiptv.club/douyu/8325511$LR•IPV4
+神羊说电影,https://www.goodiptv.club/douyu/9443552$LR•IPV4
+伯乐说电影V,https://www.goodiptv.club/douyu/9386057$LR•IPV4
+洛克电影,https://www.goodiptv.club/douyu/9414884$LR•IPV4
+小儛电影嘚啵嘚,https://www.goodiptv.club/douyu/8362978$LR•IPV4
 独立鱼电影,https://www.goodiptv.club/douyu/2413555$LR•IPV4
+火龙果讲电影本人,https://www.goodiptv.club/douyu/2039501$LR•IPV4
+大荒电影,https://www.goodiptv.club/douyu/3508538$LR•IPV4
+电影刘油果,https://www.goodiptv.club/douyu/3985805$LR•IPV4
+看电影了没V,https://www.goodiptv.club/douyu/9562616$LR•IPV4
 五分钟电影汇,https://www.goodiptv.club/douyu/8443438$LR•IPV4
+末日说电影,https://www.goodiptv.club/douyu/9431125$LR•IPV4
 唐司令说电影,https://www.goodiptv.club/douyu/8774345$LR•IPV4
 无际电影,https://www.goodiptv.club/douyu/9720498$LR•IPV4
-晓晓说电影,https://www.goodiptv.club/douyu/9430717$LR•IPV4
-崽崽撩电影,https://www.goodiptv.club/douyu/8325511$LR•IPV4
-28岁电影,https://www.goodiptv.club/douyu/8884164$LR•IPV4
 喜剧电影笑不停,https://www.goodiptv.club/douyu/10298856$LR•IPV4
+晓晓说电影,https://www.goodiptv.club/douyu/9430717$LR•IPV4
+28岁电影,https://www.goodiptv.club/douyu/8884164$LR•IPV4
+鸡哥聊电影,https://www.goodiptv.club/douyu/5067952$LR•IPV4
 鲨说电影,https://www.goodiptv.club/douyu/9544628$LR•IPV4
+前任电影,https://www.goodiptv.club/douyu/9329242$LR•IPV4
+喜人电影,https://www.goodiptv.club/douyu/10348735$LR•IPV4
 说说电影故事,https://www.goodiptv.club/douyu/9444627$LR•IPV4
-猫眼电影,https://www.goodiptv.club/douyu/8726221$LR•IPV4
+电影小班长,https://www.goodiptv.club/douyu/549693$LR•IPV4
+宇哥讲电影,https://www.goodiptv.club/douyu/2104744$LR•IPV4
+珞珞说电影,https://www.goodiptv.club/douyu/3718888$LR•IPV4
 少年看电影,https://www.goodiptv.club/douyu/8762120$LR•IPV4
 电影幕后喵,https://www.goodiptv.club/douyu/8884074$LR•IPV4
-童乐说电影,https://www.goodiptv.club/douyu/9660704$LR•IPV4
-猫叔说电影,https://www.goodiptv.club/douyu/9820039$LR•IPV4
 胶片看电影,https://www.goodiptv.club/douyu/3715426$LR•IPV4
 菠萝说电影,https://www.goodiptv.club/douyu/3714736$LR•IPV4
-王坑坑聊电影,https://www.goodiptv.club/douyu/9402110$LR•IPV4
-三七电影V,https://www.goodiptv.club/douyu/9457792$LR•IPV4
-电影吐槽汇,https://www.goodiptv.club/douyu/9447668$LR•IPV4
 小超讲电影,https://www.goodiptv.club/douyu/3432645$LR•IPV4
+电影笔记,https://www.goodiptv.club/douyu/9636034$LR•IPV4
+王坑坑聊电影,https://www.goodiptv.club/douyu/9402110$LR•IPV4
+怪味爆米花电影,https://www.goodiptv.club/douyu/9422144$LR•IPV4
+三七电影V,https://www.goodiptv.club/douyu/9457792$LR•IPV4
 电影漩涡,https://www.goodiptv.club/douyu/8706350$LR•IPV4
-喜人电影,https://www.goodiptv.club/douyu/10348735$LR•IPV4
-鸡哥聊电影,https://www.goodiptv.club/douyu/5067952$LR•IPV4
+猫眼电影,https://www.goodiptv.club/douyu/8726221$LR•IPV4
+电影吐槽汇,https://www.goodiptv.club/douyu/9447668$LR•IPV4
 小乔讲电影,https://www.goodiptv.club/douyu/8413908$LR•IPV4
-末日说电影,https://www.goodiptv.club/douyu/9431125$LR•IPV4
-小儛电影嘚啵嘚,https://www.goodiptv.club/douyu/8362978$LR•IPV4
+童乐说电影,https://www.goodiptv.club/douyu/9660704$LR•IPV4
 梓帆说电影,https://www.goodiptv.club/douyu/9769563$LR•IPV4
 钱小元说电影,https://www.goodiptv.club/douyu/9368265$LR•IPV4
-电影笔记,https://www.goodiptv.club/douyu/9636034$LR•IPV4
-珞珞说电影,https://www.goodiptv.club/douyu/3718888$LR•IPV4
-前任电影,https://www.goodiptv.club/douyu/9329242$LR•IPV4
+猫叔说电影,https://www.goodiptv.club/douyu/9820039$LR•IPV4
 女神撩电影,https://www.goodiptv.club/douyu/9439594$LR•IPV4
 小丽说电影,https://www.goodiptv.club/douyu/9368016$LR•IPV4
-怪味爆米花电影,https://www.goodiptv.club/douyu/9422144$LR•IPV4
 二哈讲电影,https://www.goodiptv.club/douyu/8778280$LR•IPV4
 撩电影8,https://www.goodiptv.club/douyu/9351043$LR•IPV4
+西施撩电影,https://www.goodiptv.club/douyu/7532080$LR•IPV4
 阿木讲电影,https://www.goodiptv.club/douyu/532050$LR•IPV4
 周墨看电影,https://www.goodiptv.club/douyu/9505584$LR•IPV4
 汪哥说电影,https://www.goodiptv.club/douyu/9312685$LR•IPV4
@@ -7322,9 +7356,9 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$LR•IPV4
 安小闫说电影x,https://www.goodiptv.club/douyu/1842621$LR•IPV4
 小浅说电影,https://www.goodiptv.club/douyu/9665834$LR•IPV4
 享看电影,https://www.goodiptv.club/douyu/8974130$LR•IPV4
+伦帝电影说,https://www.goodiptv.club/douyu/9368091$LR•IPV4
 天堂电影1895,https://www.goodiptv.club/douyu/9573592$LR•IPV4
 电影冷知识,https://www.goodiptv.club/douyu/9660835$LR•IPV4
-伦帝电影说,https://www.goodiptv.club/douyu/9368091$LR•IPV4
 龙哥盘电影,https://www.goodiptv.club/douyu/9736161$LR•IPV4
 丽姐说电影,https://www.goodiptv.club/douyu/9437283$LR•IPV4
 奇怪电影,https://www.goodiptv.club/douyu/9440966$LR•IPV4
@@ -7341,44 +7375,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$LR•IPV4
 女汉子说电影,https://www.goodiptv.club/douyu/9395966$LR•IPV4
 幕撩电影,https://www.goodiptv.club/douyu/9486015$LR•IPV4
 涛浪浪电影,https://www.goodiptv.club/douyu/5424258$LR•IPV4
-西施撩电影,https://www.goodiptv.club/douyu/7532080$LR•IPV4
 维立方电影,https://www.goodiptv.club/douyu/8706393$LR•IPV4
 可乐撩电影,https://www.goodiptv.club/douyu/9371552$LR•IPV4
-悠悠爱电影,https://www.goodiptv.club/huya/30611864$LR•IPV4
-古堡电影,https://www.goodiptv.club/huya/31047078$LR•IPV4
-冉冉看电影,https://www.goodiptv.club/huya/31045560$LR•IPV4
-扁豆看电影,https://www.goodiptv.club/huya/16028551$LR•IPV4
-电影最TOP,https://www.goodiptv.club/huya/11774959$LR•IPV4
-止戈电影,https://www.goodiptv.club/huya/19863777$LR•IPV4
-亮哥讲电影,https://www.goodiptv.club/huya/16144175$LR•IPV4
-小丑讲电影,https://www.goodiptv.club/huya/16857432$LR•IPV4
-吾聊电影,https://www.goodiptv.club/huya/16424416$LR•IPV4
-蒲公英电影,https://www.goodiptv.club/huya/28806637$LR•IPV4
-鱼丸说电影,https://www.goodiptv.club/huya/16615910$LR•IPV4
-熊妹撩电影,https://www.goodiptv.club/huya/15966357$LR•IPV4
-涵哥评电影,https://www.goodiptv.club/huya/16865726$LR•IPV4
-电影探长官方,https://www.goodiptv.club/huya/30277705$LR•IPV4
-小丑电影,https://www.goodiptv.club/huya/29869799$LR•IPV4
-青年电影馆,https://www.goodiptv.club/huya/21388479$LR•IPV4
-猛虎电影,https://www.goodiptv.club/huya/24770988$LR•IPV4
-楚门聊电影,https://www.goodiptv.club/huya/16507906$LR•IPV4
-大漠讲电影,https://www.goodiptv.club/huya/30301298$LR•IPV4
-新海电影,https://www.goodiptv.club/huya/29396806$LR•IPV4
-阿神电影,https://www.goodiptv.club/huya/29396896$LR•IPV4
-阿柴电影,https://www.goodiptv.club/huya/29402497$LR•IPV4
-光光电影,https://www.goodiptv.club/huya/29399457$LR•IPV4
-木子电影V,https://www.goodiptv.club/huya/27314057$LR•IPV4
-张小宾电影,https://www.goodiptv.club/huya/29862176$LR•IPV4
-老巴电影,https://www.goodiptv.club/huya/29340502$LR•IPV4
-救赎电影,https://www.goodiptv.club/huya/29833341$LR•IPV4
-可乐电影o,https://www.goodiptv.club/huya/29598686$LR•IPV4
-火华君说电影,https://www.goodiptv.club/huya/27312232$LR•IPV4
-电影狂人A,https://www.goodiptv.club/huya/18715610$LR•IPV4
-大墨电影,https://www.goodiptv.club/huya/29458834$LR•IPV4
-酱婶儿电影,https://www.goodiptv.club/huya/24396474$LR•IPV4
-泡菜电影,https://www.goodiptv.club/huya/29812160$LR•IPV4
-小川侃电影,https://www.goodiptv.club/huya/15870999$LR•IPV4
-山石说电影,https://www.goodiptv.club/huya/29858128$LR•IPV4
 大唐双龙传,http://www.douzhicloud.site:35455/huya/29465850$LR•IPV4•4『线路1』
 大唐双龙传,http://www.douzhicloud.site:35455/huya/29465850$LR•IPV4•4『线路2』
 大唐双龙传,http://1.94.31.214:35455/huya/23728674$LR•IPV4•4『线路3』
@@ -7412,9 +7410,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$LR•IPV4
 新三国（斗鱼）,http://www.douzhicloud.site:35455/douyu/5908256$LR•IPV4
 新三国萌儿陪看,https://yylunbo.ottiptv.cc/yy/29216766$LR•IPV4
 【新三国】萌儿陪看,https://lunbo.freetv.top/yy/29216766$LR•IPV4
-【新三国】,https://lunbo.freetv.top/yy/1382851415$LR•IPV4
-【新三国】日版,https://lunbo.freetv.top/yy/1382851457$LR•IPV4
-【新三国】吕布,https://lunbo.freetv.top/yy/1382851459$LR•IPV4
 蓝翔新三国,https://www.goodiptv.club/douyu/5908256$LR•IPV4
 亮剑,http://www.douzhicloud.site:35455/huya/30080238$LR•IPV4•2『线路1』
 亮剑,http://182.40.120.191/test-txdwk.flv.huya.com/src/1239543153972-1239543153972-11135015062081634304-2479086431400-10057-A-0-1.m3u8$LR•IPV4•2『线路2』
@@ -7446,7 +7441,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140$LR•IPV4
 3030相声小品,https://www.goodiptv.club/douyu/9286868$LR•IPV4
 刑事侦缉档案,http://www.douzhicloud.site:35455/huya/29465856$LR•IPV4•2『线路1』
 刑事侦缉档案,http://1.94.31.214:35455/huya/29465856$LR•IPV4•2『线路2』
-刑事侦缉档案I,https://lunbo.freetv.top/yy/1382851585$LR•IPV4
 陀枪师姐,http://www.douzhicloud.site:35455/huya/29465857$LR•IPV4•3『线路1』
 陀枪师姐,http://www.douzhicloud.site:35455/huya/29465857$LR•IPV4•3『线路2』
 陀枪师姐,http://1.94.31.214:35455/huya/29465857$LR•IPV4•3『线路3』
