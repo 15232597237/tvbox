@@ -2,7 +2,7 @@ name: Update Deploy to Pages
 
 on:
   push:
-    branches: ["**"]
+    branches: ["main"]
   workflow_dispatch:
     inputs:
       deploy_branch:
@@ -38,7 +38,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           ref: ${{ env.DEPLOY_REF }}
-          fetch-depth: 1
+          fetch-depth: 0
           lfs: true
           path: ${{ env.UPLOAD_PATH }}
 
