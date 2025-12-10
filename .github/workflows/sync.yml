@@ -83,11 +83,6 @@ jobs:
             
             请检查: https://github.com/${{ github.repository }}/actions
 
-      - name: Keepalive Workflow
-        uses: gautamkrishnar/keepalive-workflow@v2
-        with:
-          use_github_bot: true
-
       - name: Delete Old Workflows
         uses: Mattraks/delete-workflow-runs@v2
         with:
